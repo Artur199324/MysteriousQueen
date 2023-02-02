@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "946376543239",
+    "project_id": "mysterious-queen",
+    "storage_bucket": "mysterious-queen.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:946376543239:android:41f39f5aff60c218d12ea2",
+        "android_client_info": {
+          "package_name": "com.creativemobile.nnr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "946376543239-k1jh5q8195vcl5bavgad8e7t761521lf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6elq8I8KlSuD-ADRHDdwkbr43G0CwWDQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "946376543239-k1jh5q8195vcl5bavgad8e7t761521lf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
